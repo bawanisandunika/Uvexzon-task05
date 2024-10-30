@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "715948989339",
+    "project_id": "signup-f8325",
+    "storage_bucket": "signup-f8325.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:715948989339:android:d1b4d691f0a8a9e93fdf3e",
+        "android_client_info": {
+          "package_name": "com.example.task_05"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC74HzSrz2F_59OzepZ8xhbw9aCXdx-W2U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
